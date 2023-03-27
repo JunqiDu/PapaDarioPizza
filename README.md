@@ -8,15 +8,21 @@ This is a Windows Form Application name Papa Dario Pizza. Customers can register
 - Registe and get the discount
 - Give feedback for store
 
-### Daily view
-!['booked-slots-available'](https://github.com/JunqiDu/scheduler/blob/master/docs/scheduler-dayView.png)
-_By selecting a weekday on the left panel, a user can see booked appointments and available slots for each day._
+### Main page
+!['booked-slots-available'](https://github.com/JunqiDu/PapaDarioPizza/blob/master/docs/main.png)
+_The Main Page showcases the history and daily deals of Papa Dario's Pizza._
 
-### New appointment booking
-!['book-new-apt'](https://github.com/JunqiDu/scheduler/blob/master/docs/new-appointment.png)
-_A user can add interviews to available slots by typing a student name and adding interviewer from the list (an error message will be shown if a student name field is left blank)._
+### Order page
+!['book-new-apt'](https://github.com/JunqiDu/PapaDarioPizza/blob/master/docs/order.png)
+_The Order Page displays different pizza sizes, toppings and other order information._
 
- **Note** : _For full functionality both must run concurrently: the client and the API server applications (see database* setup below)._
+### Fan club page
+!['booked-slots-available'](https://github.com/JunqiDu/PapaDarioPizza/blob/master/docs/fanClub.png)
+_Fan Club Page allows users to sign in or log in._
+
+### Contact us page
+!['book-new-apt'](https://github.com/JunqiDu/PapaDarioPizza/blob/master/docs/contactUs.png)
+_Contact Us Page can be used to send us a feedback._
 
 ## Project Stack
 
